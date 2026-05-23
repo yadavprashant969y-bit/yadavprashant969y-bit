@@ -36,9 +36,9 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yadavprashant969y-bit&show_icons=true&theme=tokyonight&hide_border=true&title_color=007ACC" alt="GitHub Stats" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yadavprashant969y-bit&show_icons=true&theme=tokyonight&hide_border=true&title_color=007ACC" alt="GitHub Stats" width="48%" /> -->
   <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavprashant969y-bit&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC" alt="Top Languages" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavprashant969y-bit&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC" alt="Top Languages" width="48%" /> -->
 </div>
 
 <br/>
