@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on exciting web projects
 - 🌱 I’m currently learning modern web technologies
 - 💬 Ask me about **Frontend & Backend Development**
-- 📫 How to reach me: **[yadav.prashant9696@gmail.com]**
+- 📫 How to reach me: **yadav.prashant9696@gmail.com**
 
 ---
 
